@@ -59,3 +59,17 @@ Classified set of images, belonging to different classes, using Naive Bayes and 
 .
 <test-label-M>
 ```
+
+
+### dataset links
+
+[dataset link](https://drive.google.com/open?id=141FxNzJM1aNa8RL9CWb6ayFNqNNIzALe)
+[testdata link](https://drive.google.com/open?id=1KlGMqbVNaBUFIWHubFMmUkn9UvcX00rK)
+
+### How to run the eval.py 
+
+- The dataset folder must be in the same directory as the create_dataset1.py file.
+
+- Run the create_dataset1.py file to generate random input.
+
+- Run the eval.py to compute the accuracies.
